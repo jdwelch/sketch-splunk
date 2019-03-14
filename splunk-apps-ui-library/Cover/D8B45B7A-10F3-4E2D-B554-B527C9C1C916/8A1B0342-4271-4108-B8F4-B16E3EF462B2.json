@@ -35,12 +35,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "E877C78A-8728-48CC-8E88-9ACE46C8393D",
-      "overrideName": "5DDE6088-017D-4ABC-9E99-1E6B6D0057CB_stringValue",
-      "value": "Puppet Enterprise master"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "2C17EFD1-D568-447B-A51C-037FF219B293",
       "overrideName": "D3DF144B-66D1-4B27-9A9C-610E5BCFD021_stringValue",
       "value": "Le menu avec un lable looooongue"

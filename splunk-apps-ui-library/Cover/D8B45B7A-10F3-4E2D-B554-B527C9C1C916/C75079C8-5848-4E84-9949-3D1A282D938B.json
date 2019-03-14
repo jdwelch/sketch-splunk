@@ -33,6 +33,12 @@
   "name": "DashboardViewHead",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7955F7C-1849-4862-B67C-194B3A2CD75F",
+      "overrideName": "2B3EAA0D-4CE4-419B-B489-4B61F1113920_stringValue",
+      "value": "Overview"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
