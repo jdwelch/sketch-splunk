@@ -27,16 +27,16 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 4,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Menu"
+    "string": "Button"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DE174E9D-1C38-457B-9570-6A801625358B",
+  "do_objectID": "1417DD04-2C0C-4202-B3B3-62619DFDEE78",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 56,
-    "x": -56,
-    "y": 1796
+    "width": 68,
+    "x": -68,
+    "y": 496
   },
-  "glyphBounds": "{{1, 4}, {54, 16}}",
+  "glyphBounds": "{{1, 4}, {66, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Menu",
+  "name": "Button",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "FF8AF9C3-6DCD-47A8-A4AE-D62890ADEB33",
+    "do_objectID": "956978A7-74A3-4512-AC65-6AF20F0661EB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

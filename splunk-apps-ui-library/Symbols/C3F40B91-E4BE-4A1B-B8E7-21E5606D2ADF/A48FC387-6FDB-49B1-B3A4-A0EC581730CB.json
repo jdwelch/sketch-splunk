@@ -9,39 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8330502717391305,
-            "green": 0.8330502717391305,
-            "red": 0.8330502717391305
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ProximaNova-Regular",
-              "size": 14
+              "name": "SFProText-Bold",
+              "size": 20
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0,
-            "tighteningFactorForTruncation": 0.05
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "alignment": 1,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
         },
-        "length": 20,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Puppet Report Viewer"
+    "string": "Panel"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7A1AE4E5-25DF-41C3-A340-C1CCDADB9164",
+  "do_objectID": "A48FC387-6FDB-49B1-B3A4-A0EC581730CB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E69EC97B-095D-49E8-BC3A-278394978348",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B874830D-A952-4EB7-B3B2-109557895CAB",
-    "height": 19,
-    "width": 136,
-    "x": 40,
-    "y": 8
+    "height": 24,
+    "width": 56,
+    "x": -56,
+    "y": 2324
   },
-  "glyphBounds": "{{1, 3}, {135, 13}}",
+  "glyphBounds": "{{1, 4}, {53, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,55 +64,46 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Puppet Report Viewer",
+  "name": "Panel",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "6F911F0B-D270-4FFB-BACA-5A59E4152DA8",
+  "sharedStyleID": "D57B3297-FB02-4339-92D4-4172ACB1C4DB",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E1080139-F97F-4BFB-9E19-FFBFC9AF7E6D",
+    "do_objectID": "FDD6B90F-B802-44B0-AEFD-EB6E4B599389",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "9000003B-5FE2-4CA2-A342-EDE7A776A782",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8330502717391305,
-          "green": 0.8330502717391305,
-          "red": 0.8330502717391305
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "ProximaNova-Regular",
-            "size": 14
+            "name": "SFProText-Bold",
+            "size": 20
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0,
-          "tighteningFactorForTruncation": 0.05
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "alignment": 1,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 0
-      }
-    }
-  }
+  "textBehaviour": 0
 }

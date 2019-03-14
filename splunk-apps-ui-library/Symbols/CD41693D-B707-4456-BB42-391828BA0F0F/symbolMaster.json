@@ -3,18 +3,16 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.3176470588235294,
-    "do_objectID": "C12340C7-78F4-42CB-A857-D7F29ECC82AF",
-    "green": 0.3176470588235294,
-    "red": 0.3176470588235294
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1826,
+  "changeIdentifier": 207,
   "clippingMaskMode": 0,
-  "do_objectID": "BAF01F16-8223-4DEB-B565-6D84884B4444",
+  "do_objectID": "CD41693D-B707-4456-BB42-391828BA0F0F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E6041719-7D8B-4599-B5B4-4D9C62DE3D43",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -25,27 +23,24 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2A0B340B-7805-4A2A-A161-F1E004075A6C",
-    "height": 48,
-    "width": 81,
-    "x": 161,
-    "y": 248
+    "height": 32,
+    "width": 126,
+    "x": 1354,
+    "y": 1516
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "3AD24971-93CD-4A6E-B7DA-4EBB2A7352B9"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "7CEB4EED-076F-4DC1-9B63-EA530DAC0924",
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -54,49 +49,51 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
-      "id": "6394E74F-3386-4B23-9C40-0DD4D55F5147"
+      "id": "8084CCB9-6D64-459D-9317-ED24A96E0C6F"
+    },
+    {
+      "class": "text",
+      "id": "6D23165E-A538-431F-BCAB-2FBD56A6DF8C"
     },
     {
       "class": "shapePath",
-      "id": "3C9B9107-0753-4BDB-A937-27AD942015A7"
+      "id": "6D54655A-E702-41CB-BC07-87707909D321"
     }
   ],
-  "name": "AppBarMenu/Rest",
-  "nameIsFixed": true,
+  "name": "Header/AppSwitcher",
+  "nameIsFixed": false,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6394E74F-3386-4B23-9C40-0DD4D55F5147_stringValue"
+      "overrideName": "8084CCB9-6D64-459D-9317-ED24A96E0C6F_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "6394E74F-3386-4B23-9C40-0DD4D55F5147_textStyle"
+      "canOverride": true,
+      "overrideName": "6D23165E-A538-431F-BCAB-2FBD56A6DF8C_stringValue"
     }
   ],
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "9658029C-2FF4-4C4A-9115-853555ABB91F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "44917AA4-FD31-48E2-B1FB-10E30578E1A1",
+  "symbolID": "C14F1D31-A157-4988-9970-89D366641406",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "B3B80872-C4A7-418D-995B-2A9DB40D6B08",
     "guides": [
     ]
   }

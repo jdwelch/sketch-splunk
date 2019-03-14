@@ -31,12 +31,12 @@
         "location": 0
       }
     ],
-    "string": "Report"
+    "string": "Flyout"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3DF3D92B-F8B3-4E61-8BBF-632D679423C1",
+  "do_objectID": "7308840A-E291-42BF-B4DE-B4DB2264F4D7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 69,
-    "x": -69,
-    "y": 2612
+    "width": 63,
+    "x": -63,
+    "y": 1224
   },
-  "glyphBounds": "{{1, 4}, {67, 19}}",
+  "glyphBounds": "{{1, 4}, {61, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Report",
+  "name": "Flyout",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C5A1DD4D-C1B0-4130-A7EC-5DA31E6B5748",
+    "do_objectID": "2CFF3CBE-9C60-46C3-BB89-72E5D2073F9E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

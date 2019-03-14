@@ -27,16 +27,16 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 9,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Dashboard"
+    "string": "Table"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E5194439-41E7-4F34-93C4-BAB80C28DF1E",
+  "do_objectID": "556F31C5-C2F4-4781-AD75-0E819C608CC7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 110,
-    "x": -110,
-    "y": 960
+    "width": 55,
+    "x": -55,
+    "y": 2876
   },
-  "glyphBounds": "{{1, 4}, {107, 16}}",
+  "glyphBounds": "{{0, 4}, {54, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Dashboard",
+  "name": "Table",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A3D450F1-B4E8-4162-90FC-AEFACED1127E",
+    "do_objectID": "7C843380-B4AB-4314-A531-62F3AC3AB849",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

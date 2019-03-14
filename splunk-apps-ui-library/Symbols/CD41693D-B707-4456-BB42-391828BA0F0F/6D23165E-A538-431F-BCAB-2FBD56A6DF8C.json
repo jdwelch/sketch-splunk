@@ -9,37 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.5480638586956522,
+            "green": 0.5480638586956522,
+            "red": 0.5480638586956522
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProText-Bold",
-              "size": 20
+              "name": "ProximaNova-Regular",
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
-          }
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "tighteningFactorForTruncation": 0.05
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 9,
         "location": 0
       }
     ],
-    "string": "TextField"
+    "string": "$AppName$"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "22A42ADC-B6E0-46C4-9759-3634667628CB",
+  "do_objectID": "6D23165E-A538-431F-BCAB-2FBD56A6DF8C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "DD14013D-B739-4265-B209-64556164B6F9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 92,
-    "x": -92,
-    "y": 3940
+    "do_objectID": "8101D8DC-73CD-4E90-AB84-5C4902232B22",
+    "height": 17,
+    "width": 79,
+    "x": 33,
+    "y": 8
   },
-  "glyphBounds": "{{0, 3}, {90, 17}}",
+  "glyphBounds": "{{0, 2}, {78, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,46 +67,54 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "TextField",
+  "name": "$AppName$",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "D57B3297-FB02-4339-92D4-4172ACB1C4DB",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "792DF421-56DA-4AB7-A977-DE0E80D62017",
+    "do_objectID": "4114DE79-7D06-4823-A0F8-1CB0E6266E9E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "63FDA7B7-5524-4C09-9A8C-68ADFFD93816",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.5480638586956522,
+          "green": 0.5480638586956522,
+          "red": 0.5480638586956522
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProText-Bold",
-            "size": 20
+            "name": "ProximaNova-Regular",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
-        }
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "tighteningFactorForTruncation": 0.05
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

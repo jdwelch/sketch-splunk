@@ -44,6 +44,18 @@
       "do_objectID": "D92BE514-DC99-4E7A-8B3D-6996A6ECDCB4",
       "overrideName": "13F19B79-BB67-4379-BC9B-8CFBD27E8848/34FE26AC-EE85-40F8-AF3B-B8F89C73B3A4_stringValue",
       "value": "Overview"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "86246D13-8E07-4381-89C6-BB9A11B71BFD",
+      "overrideName": "D5AD9B85-A252-4252-8CCC-DEA3ECA1AA4B/7A1AE4E5-25DF-41C3-A340-C1CCDADB9164_stringValue",
+      "value": "My Fancy Splunk App Has a Long Name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B80C4DEA-85A7-4508-B096-C70F54405388",
+      "overrideName": "3DE0A624-038A-4162-9B11-90A338436A69/6D23165E-A538-431F-BCAB-2FBD56A6DF8C_stringValue",
+      "value": "My Fancy Splunk App Has a Long Name"
     }
   ],
   "resizingConstraint": 63,
