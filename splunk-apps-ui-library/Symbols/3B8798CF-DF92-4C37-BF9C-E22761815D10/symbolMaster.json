@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4249,
+  "changeIdentifier": 4485,
   "clippingMaskMode": 0,
   "do_objectID": "3B8798CF-DF92-4C37-BF9C-E22761815D10",
   "exportOptions": {
@@ -31,7 +31,7 @@
   "grid": {
     "_class": "simpleGrid",
     "gridSize": 8,
-    "isEnabled": false,
+    "isEnabled": true,
     "thickGridTimes": 8
   },
   "groupLayout": {
@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -75,8 +75,8 @@
       "id": "3DE0A624-038A-4162-9B11-90A338436A69"
     },
     {
-      "class": "text",
-      "id": "688A06A0-C76E-4801-9A91-9994BC422429"
+      "class": "group",
+      "id": "AFFD0192-B5F7-4FBA-9F66-124A94F9C132"
     },
     {
       "class": "symbolInstance",
