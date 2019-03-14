@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A2DA4F69-26FE-4A4F-AC51-674B203961BE",
+  "do_objectID": "C88F959E-74F5-4887-8435-7E195EF06E95",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "619BEE9B-37DF-422C-91D6-0C44C50C848B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D30BA022-A681-4BBC-ACAC-6D31D7221F38",
     "height": 63,
     "width": 144,
     "x": 0,
-    "y": 1
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -35,19 +33,16 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "E877C78A-8728-48CC-8E88-9ACE46C8393D",
       "overrideName": "5DDE6088-017D-4ABC-9E99-1E6B6D0057CB_stringValue",
       "value": "Time range:"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "2C17EFD1-D568-447B-A51C-037FF219B293",
       "overrideName": "D3DF144B-66D1-4B27-9A9C-610E5BCFD021_stringValue",
       "value": "Last 24 hours"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "69E2154E-3395-4CAA-80A7-2F685E0D0564",
       "overrideName": "0AA4EEFB-8860-4386-B1A4-428F0FBA0991/32F529B0-0C24-40F9-B5EB-E3661376052F_stringValue",
       "value": "Last 24 hours"
     }
@@ -59,7 +54,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "888D6A95-1EA1-44B5-85ED-57C9374E3322",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -61,13 +61,13 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "EB2C65B5-E605-4A83-A25E-ECA5F4BD28F3_textStyle"
+      "canOverride": true,
+      "overrideName": "EB2C65B5-E605-4A83-A25E-ECA5F4BD28F3_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "EB2C65B5-E605-4A83-A25E-ECA5F4BD28F3_stringValue"
+      "canOverride": false,
+      "overrideName": "EB2C65B5-E605-4A83-A25E-ECA5F4BD28F3_textStyle"
     }
   ],
   "resizesContent": false,

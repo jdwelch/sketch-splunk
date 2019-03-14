@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1620,
+  "changeIdentifier": 1621,
   "clippingMaskMode": 0,
   "do_objectID": "15DF84D2-6286-42E0-83E9-699F1241CA5F",
   "exportOptions": {
@@ -36,7 +36,7 @@
     "do_objectID": "E43E9AC3-AB72-4FD3-BED0-7F4C2FAAFF88"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +65,7 @@
       "id": "8FA6E29B-C7D6-4D3A-8D43-E8E727846B62"
     }
   ],
-  "name": "TextField",
+  "name": "TextField/Plain",
   "nameIsFixed": true,
   "overrideProperties": [
     {
