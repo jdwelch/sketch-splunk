@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1573,
+  "changeIdentifier": 1582,
   "clippingMaskMode": 0,
   "do_objectID": "AF452E0E-DB31-47FD-BE90-84B7306266C2",
   "exportOptions": {
@@ -28,15 +28,15 @@
     "do_objectID": "6779540F-3F16-4ADF-A6BF-BC37892EDFB7",
     "height": 64,
     "width": 133,
-    "x": 358,
-    "y": 74
+    "x": 213,
+    "y": 3940
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "DF64E003-F6CB-4391-A5B3-B1E133B1A3CB"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -65,7 +65,7 @@
       "id": "770A9883-A659-4F7F-9DF8-D50794404932"
     }
   ],
-  "name": "TextFieldWithLabel",
+  "name": "TextField/Label",
   "nameIsFixed": true,
   "overrideProperties": [
     {

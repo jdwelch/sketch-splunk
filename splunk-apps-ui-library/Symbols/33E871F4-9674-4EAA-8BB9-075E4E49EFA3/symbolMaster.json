@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 468,
+  "changeIdentifier": 473,
   "clippingMaskMode": 0,
   "do_objectID": "33E871F4-9674-4EAA-8BB9-075E4E49EFA3",
   "exportOptions": {
@@ -28,8 +28,8 @@
     "do_objectID": "53800EAC-D51D-41B8-AEE2-FC96B41C869F",
     "height": 64,
     "width": 224,
-    "x": 36,
-    "y": 918
+    "x": 0,
+    "y": 2612
   },
   "grid": {
     "_class": "simpleGrid",
@@ -43,7 +43,7 @@
     "do_objectID": "36CBFBBC-F5D0-40C0-B285-AC8ACC118841"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",

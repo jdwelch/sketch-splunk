@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 315,
+  "changeIdentifier": 321,
   "clippingMaskMode": 0,
   "do_objectID": "4F3FDD53-C23D-4177-ADAD-7C57F502D97F",
   "exportOptions": {
@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 92,
     "width": 252,
-    "x": 606,
-    "y": 340
+    "x": 0,
+    "y": 1224
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
@@ -68,8 +68,8 @@
       "id": "834CEA43-8152-4219-B693-7ED065F0EE38"
     }
   ],
-  "name": "FlyoutDown",
-  "nameIsFixed": false,
+  "name": "Flyout/Down",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

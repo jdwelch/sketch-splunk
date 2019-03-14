@@ -9,7 +9,7 @@
     "red": 0.3176470588235294
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1949,
+  "changeIdentifier": 1953,
   "clippingMaskMode": 0,
   "do_objectID": "53E35B0C-8072-429A-8874-3D714FBA8627",
   "exportOptions": {
@@ -28,8 +28,8 @@
     "do_objectID": "6A88FCB4-D23D-4D85-8982-3CB0BE25DFBA",
     "height": 48,
     "width": 81,
-    "x": 1027,
-    "y": 147
+    "x": 0,
+    "y": 248
   },
   "grid": {
     "_class": "simpleGrid",
@@ -60,7 +60,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
