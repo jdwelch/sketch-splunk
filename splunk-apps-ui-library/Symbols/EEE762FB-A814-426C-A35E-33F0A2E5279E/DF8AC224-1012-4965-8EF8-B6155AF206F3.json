@@ -1,0 +1,118 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6666666666666666,
+            "green": 0.4313725490196079,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Inconsolata",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
+            "tighteningFactorForTruncation": 0.05
+          },
+          "textStyleVerticalAlignmentKey": 1
+        },
+        "length": 1208,
+        "location": 0
+      }
+    ],
+    "string": "web-front-ends-sydney.c.splunk-217321.internal\nweb-front-ends-dqs7.c.splunk-217321.internal\nweb-front-ends-wbsj.c.splunk-217321.internal\nweb-front-ends-4nh1.c.splunk-217321.internal\nweb-front-ends-2x67.c.splunk-217321.internal\nweb-front-ends-3jwb.c.splunk-217321.internal\nweb-front-ends-dj6s.c.splunk-217321.internal\npuppet.c.splunk-217321.internal\nsplunk-intermediate-sydney.c.splunk-217321.internal\nweb-front-ends-0j3v.c.splunk-217321.internal\nweb-front-ends-q3sf.c.splunk-217321.internal\nweb-front-ends-sydney.c.splunk-217321.internal\nweb-front-ends-dqs7.c.splunk-217321.internal\nweb-front-ends-wbsj.c.splunk-217321.internal\nweb-front-ends-4nh1.c.splunk-217321.internal\nweb-front-ends-2x67.c.splunk-217321.internal\nweb-front-ends-3jwb.c.splunk-217321.internal\nweb-front-ends-dj6s.c.splunk-217321.internal\npuppet.c.splunk-217321.internal\nsplunk-intermediate-sydney.c.splunk-217321.internal\nweb-front-ends-0j3v.c.splunk-217321.internal\nweb-front-ends-q3sf.c.splunk-217321.internal\nweb-front-ends-sydney.c.splunk-217321.internal\nweb-front-ends-dqs7.c.splunk-217321.internal\nweb-front-ends-wbsj.c.splunk-217321.internal\nweb-front-ends-4nh1.c.splunk-217321.internal\nweb-front-ends-2x67.c.splunk-217321.internal"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DF8AC224-1012-4965-8EF8-B6155AF206F3",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F09ABA1D-E0DA-4E4E-8C15-FD1BC568A025",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E2CB34B-170C-4D62-B2AF-535FC4B40D5C",
+    "height": 648,
+    "width": 311,
+    "x": 8,
+    "y": 23
+  },
+  "glyphBounds": "{{0, 8}, {306, 636}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "web-front-ends-sydne",
+  "nameIsFixed": false,
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "1FC57BB5-3BB6-4645-9970-F1D79D41678D",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CDE6402F-1B68-4D74-9DFE-07010A76F252",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "1D808ADF-042B-4AA5-BC47-0F44C741976C",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6666666666666666,
+          "green": 0.4313725490196079,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Inconsolata",
+            "size": 12
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
+          "tighteningFactorForTruncation": 0.05
+        },
+        "textStyleVerticalAlignmentKey": 1
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

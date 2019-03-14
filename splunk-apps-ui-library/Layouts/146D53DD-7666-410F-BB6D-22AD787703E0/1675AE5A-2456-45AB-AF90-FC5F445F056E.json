@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1675AE5A-2456-45AB-AF90-FC5F445F056E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "582BCBFF-0899-4529-B30B-EA3648C0B073",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0C326F29-79FA-4D98-8429-A13DCA2DE5A4",
+    "height": 144,
+    "width": 1024,
+    "x": 24,
+    "y": 462
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Panel Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B331B5B1-D4F1-4176-803B-2D2A8CDC0607",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3669F03D-17B1-4804-A719-9E7D24D6D4F1",
+  "verticalSpacing": 0
+}

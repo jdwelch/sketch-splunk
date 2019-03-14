@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FAE913DA-6B7F-452F-9883-F2F654AD4E20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "900F0B99-469F-4F3E-83F8-68398DF322F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C57EF1DC-85E1-4507-AC5F-3F3C83EC69B1",
+    "height": 48,
+    "width": 58,
+    "x": 232,
+    "y": 32
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Reports",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED31D49E-4B73-4C78-AADA-CB93B3E10BDF",
+      "overrideName": "6394E74F-3386-4B23-9C40-0DD4D55F5147_stringValue",
+      "value": "Reports"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ACB5E44D-A389-4813-8B5D-AFDEA2C04872",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "44917AA4-FD31-48E2-B1FB-10E30578E1A1",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "11EA8959-5ACE-464E-9098-440AC96EE045",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "014BA019-ECED-4D90-BD62-FE5530E3E0DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF3C2D9B-D887-42EC-ABE6-BCC152BD11E2",
+    "height": 191,
+    "width": 193,
+    "x": 678,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "TableColumn Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8C46076-36DF-4ABD-94FE-96503AC0AF59",
+      "overrideName": "B0456B51-C04E-489E-AA01-64E2D0DD89AE/1A32315C-8D5D-4D7B-A428-D4BA13C6B365_stringValue",
+      "value": "Report Time"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4AA66400-A52F-42FF-863E-F74D9456DE8A",
+      "overrideName": "DF8AC224-1012-4965-8EF8-B6155AF206F3_stringValue",
+      "value": "2019-03-07 18:29:58 +01:00\n2019-03-07 16:11:33 +01:00\n2019-03-07 13:41:27 +01:00\n2019-03-07 13:41:25 +01:00\n2019-03-07 13:39:39 +01:00\n2019-03-07 13:32:16 +01:00\n2019-03-07 13:11:26 +01:00\n2019-03-07 12:11:25 +01:00\n2019-03-07 11:29:56 +01:00\n2019-03-06 18:12:57 +01:00\n2019-02-26 19:41:27 +01:00\n2019-02-05 19:11:26 +01:00\n2019-02-05 17:29:55 +01:00\n2019-02-05 15:02:16 +01:00\n2019-02-05 14:11:24 +01:00\n2019-02-05 13:41:32 +01:00\n2019-02-05 11:59:58 +01:00\n2019-02-05 11:41:25 +01:00"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "12419541-D4FD-4CD3-B0F6-F846D6046D9D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C31BC53E-4D94-4F51-9AFD-D1444CEE1E5A",
+  "verticalSpacing": 0
+}

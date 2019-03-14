@@ -1,0 +1,222 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "green": 0.9568627450980393,
+    "red": 0.9490196078431372
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2487,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C150A89-59AA-4206-81FA-13ACFBDA7C32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 864,
+    "width": 104,
+    "x": 1208,
+    "y": -64
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "333A6684-738D-4531-AEA3-65B7CAA48D6B"
+    },
+    {
+      "class": "rectangle",
+      "id": "ABBF412B-2B2C-45D5-AA66-8FF893EE6628"
+    },
+    {
+      "class": "rectangle",
+      "id": "7055D301-1115-45DD-BF2D-BF778FF17688"
+    },
+    {
+      "class": "rectangle",
+      "id": "83EB5832-6F51-48C6-99D2-9E706723F968"
+    },
+    {
+      "class": "rectangle",
+      "id": "1EF55C03-E710-4F41-A3A9-9888CCDDD7EF"
+    },
+    {
+      "class": "rectangle",
+      "id": "2BDB1B48-D75E-4642-ABAA-5CCB09538402"
+    },
+    {
+      "class": "rectangle",
+      "id": "7B3A7987-E095-47EF-BE4E-7F8A526C1187"
+    },
+    {
+      "class": "rectangle",
+      "id": "41722242-8973-4251-8615-4273E453F93A"
+    },
+    {
+      "class": "rectangle",
+      "id": "9B174E75-CA63-4165-8DBF-C6BB844A2237"
+    },
+    {
+      "class": "rectangle",
+      "id": "C83C4A7E-62BF-4F8C-9C13-6CBB2E8D3707"
+    },
+    {
+      "class": "rectangle",
+      "id": "2995ECB9-69C3-49A8-BE79-15105C05D4DF"
+    },
+    {
+      "class": "rectangle",
+      "id": "DAC10597-C012-4A79-B629-E94BCD993FEC"
+    },
+    {
+      "class": "rectangle",
+      "id": "8FC632EE-35B1-4543-BAF5-677FEA5B9D3A"
+    },
+    {
+      "class": "rectangle",
+      "id": "7D236746-6D52-413D-92BD-3A1CC23FB85F"
+    },
+    {
+      "class": "rectangle",
+      "id": "2F1EEB51-F4FB-4B1A-A574-66C7A227D1C9"
+    },
+    {
+      "class": "rectangle",
+      "id": "CEE89A77-38FE-4856-BA08-9C67A92F4F3A"
+    },
+    {
+      "class": "rectangle",
+      "id": "28396593-B9F3-4F97-B11B-3AC344CA9725"
+    },
+    {
+      "class": "rectangle",
+      "id": "A2922F78-2123-4C9F-A864-06D9838F0AFF"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2F764F5-CC27-48D5-A794-2FB103707875"
+    },
+    {
+      "class": "rectangle",
+      "id": "6383E141-37E8-4E5E-A39C-D87767E31689"
+    },
+    {
+      "class": "rectangle",
+      "id": "724FAB2A-28B5-430E-BED6-DDB98AA2E150"
+    },
+    {
+      "class": "rectangle",
+      "id": "C7138E7C-7103-4EDA-AAC8-DF4F631381C3"
+    },
+    {
+      "class": "rectangle",
+      "id": "4C69880E-8848-46D0-808C-DC31183EEEC5"
+    },
+    {
+      "class": "rectangle",
+      "id": "3860F058-59EF-4B1D-9202-A37BA5EAE209"
+    },
+    {
+      "class": "rectangle",
+      "id": "F00CB153-0605-46DA-B66A-FE3BCB1D21B5"
+    },
+    {
+      "class": "rectangle",
+      "id": "A30E5F25-F94F-4132-A704-2015B84AD044"
+    },
+    {
+      "class": "rectangle",
+      "id": "7D3928F3-F665-4F77-9B74-D82545707C7F"
+    },
+    {
+      "class": "rectangle",
+      "id": "5B3D43C8-08B0-4C9F-BACA-1B9371436163"
+    },
+    {
+      "class": "rectangle",
+      "id": "43A414D2-DA72-46E5-9CCB-B6A4A356B062"
+    },
+    {
+      "class": "rectangle",
+      "id": "097FF6DC-8B3E-46EE-8883-AB0CA168DB35"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E590521-76A8-44BC-9E97-43F75995FFC3"
+    },
+    {
+      "class": "rectangle",
+      "id": "F550D238-7050-41E7-AC98-3736679BB2DC"
+    },
+    {
+      "class": "rectangle",
+      "id": "EE941A3A-403F-46EE-9509-A2A7C233C06C"
+    },
+    {
+      "class": "rectangle",
+      "id": "899C099F-8AE9-4D8C-B21C-83246040DF0B"
+    },
+    {
+      "class": "rectangle",
+      "id": "33C4476A-B61E-48D4-B67C-A885B16C3239"
+    },
+    {
+      "class": "rectangle",
+      "id": "1A7CF23C-84E5-464C-9D62-FFF278225D60"
+    }
+  ],
+  "name": "Table/Zebra",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "439B84C3-1ED2-45A2-A171-4C0E30E28C32",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

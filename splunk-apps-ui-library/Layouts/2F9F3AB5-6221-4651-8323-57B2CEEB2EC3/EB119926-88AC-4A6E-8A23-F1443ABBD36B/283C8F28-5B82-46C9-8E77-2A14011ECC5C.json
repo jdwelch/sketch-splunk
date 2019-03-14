@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "283C8F28-5B82-46C9-8E77-2A14011ECC5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "617E376F-F180-4098-BD34-2470542BB8AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83CC6CAC-12B3-41A6-91FC-6EB20644A7E2",
+    "height": 170,
+    "width": 512,
+    "x": 40,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "TableColumn",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0AA41E51-30C7-4512-A552-BC36879A6AC0",
+      "overrideName": "DF8AC224-1012-4965-8EF8-B6155AF206F3_stringValue",
+      "value": "web-front-ends-0j3v.c.splunk-217321.internal\nweb-front-ends-sydney.c.splunk-217321.internal\nweb-front-ends-dqs7.c.splunk-217321.internal\nweb-front-ends-2x67.c.splunk-217321.internal\npuppet.c.splunk-217321.internal\nsplunk-intermediate-sydney.c.splunk-217321.internal\nweb-front-ends-wbsj.c.splunk-217321.internal\nweb-front-ends-4nh1.c.splunk-217321.internal\nweb-front-ends-q3sf.c.splunk-217321.internal\nsplunk.c.splunk-217321.internal\nweb-front-ends-dqs7.c.splunk-217321.internal\nweb-front-ends-wbsj.c.splunk-217321.internal\nweb-front-ends-q3sf.c.splunk-217321.internal\nsplunk-intermediate-sydney.c.splunk-217321.internal\nweb-front-ends-4nh1.c.splunk-217321.internal\nweb-front-ends-sydney.c.splunk-217321.internal\nweb-front-ends-0j3v.c.splunk-217321.internal\nweb-front-ends-2x67.c.splunk-217321.internal"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B163C30-6020-427B-BB55-23ABFBADA70A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C31BC53E-4D94-4F51-9AFD-D1444CEE1E5A",
+  "verticalSpacing": 0
+}

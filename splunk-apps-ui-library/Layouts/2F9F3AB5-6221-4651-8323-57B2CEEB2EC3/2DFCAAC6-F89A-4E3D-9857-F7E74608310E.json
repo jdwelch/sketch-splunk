@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2DFCAAC6-F89A-4E3D-9857-F7E74608310E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99AED863-FEEA-47CC-BA46-BD8CD80AE14C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76C1ED2D-F06A-4BE6-8E59-DFF8F5CFC47A",
+    "height": 52,
+    "width": 490,
+    "x": 24,
+    "y": 96
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "DashboardViewHead",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD111345-3C64-49D4-B82F-4697B826EE9F",
+      "overrideName": "2B3EAA0D-4CE4-419B-B489-4B61F1113920_stringValue",
+      "value": "Hosts with resource failures"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3653C8B1-BEAF-422F-A140-C2217786A33B",
+      "overrideName": "E52D82CC-73E4-4285-85BD-2890336F8E0F_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80011F02-E936-4575-B7E4-F3169543DF77",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4FF33F24-1C78-432A-8BB9-442F60757A6F",
+  "verticalSpacing": 0
+}

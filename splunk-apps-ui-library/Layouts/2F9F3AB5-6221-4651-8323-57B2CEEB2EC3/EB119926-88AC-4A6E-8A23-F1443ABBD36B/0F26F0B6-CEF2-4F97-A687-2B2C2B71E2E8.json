@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0F26F0B6-CEF2-4F97-A687-2B2C2B71E2E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC4FFF5E-B5EA-46EB-A581-966D525AE952",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8893EBCA-05EE-42EE-8BFC-1D195ECB383E",
+    "height": 191,
+    "width": 193,
+    "x": 871,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "TableColumn Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8C46076-36DF-4ABD-94FE-96503AC0AF59",
+      "overrideName": "B0456B51-C04E-489E-AA01-64E2D0DD89AE/1A32315C-8D5D-4D7B-A428-D4BA13C6B365_stringValue",
+      "value": "Execution Time (s)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4AA66400-A52F-42FF-863E-F74D9456DE8A",
+      "overrideName": "DF8AC224-1012-4965-8EF8-B6155AF206F3_stringValue",
+      "value": "7.4\n8.7\n8.3\n7.1\n36.8\n8.8\n7.1\n7.5\n7.9\n5.9\n8.9\n7.7\n8.3\n7.5\n7.8\n9\n7.4\n8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "11D66340-F105-47F9-97A0-9CDDDCB5C782",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C31BC53E-4D94-4F51-9AFD-D1444CEE1E5A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "36BB1B3F-4A05-4C2B-BA46-93A9F175B730",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4FF6ADDC-8D1E-4A89-863B-54ECB35BBB3E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF079AE3-F5A4-454F-9A53-0BB80677387C",
+    "height": 24,
+    "width": 193,
+    "x": 611,
+    "y": 196
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MultiSelectValue Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE708FCA-4CBB-4DAA-8520-C65AF8FADAA3",
+      "overrideName": "2AC8262E-B280-490F-9A7F-CF25CAB6A47A_stringValue",
+      "value": "La tag avec le lable loongue"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9E6F87E-1F1D-4CB6-BF02-46AF93BDFECF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FDC3D53E-1136-42F8-99FB-29FAD902B6A4",
+  "verticalSpacing": 0
+}

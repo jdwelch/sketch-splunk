@@ -1,0 +1,144 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "green": 0.9568627450980393,
+    "red": 0.9490196078431372
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D8B45B7A-10F3-4E2D-B554-B527C9C1C916",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA600690-44E2-4E89-A094-E5CA2618F23C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7078A5E3-EC02-4AEC-AC0A-3B3B7AC17065",
+    "height": 324,
+    "width": 415,
+    "x": -536,
+    "y": -400
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "1B37C580-5960-4C51-8EFD-6928015FFA14",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CC403C90-B4A4-4084-9C4C-A56067B500BE"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A2CED6DE-BAF8-4228-B802-D7F3F60A85C0",
+    "guides": [
+      24,
+      1048
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "778365BD-B841-466A-8895-0D48BAF62D18"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C75079C8-5848-4E84-9949-3D1A282D938B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC9C40E5-658E-4AB6-9A41-3E2A2F33C3CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A1B0342-4271-4108-B8F4-B16E3EF462B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8AA235A4-C658-4048-91ED-1620F39D5AB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2034B127-9BB4-40BE-B8CE-59ACF6E31E21"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70.66666666666667,
+    "do_objectID": "0982FB48-4DFE-427C-B0D7-5908EF350397",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": false,
+    "horizontalOffset": 24,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1024
+  },
+  "name": "Library Preview",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 800,
+    "name": "SplunkDashboard",
+    "offersLandscapeVariant": 0,
+    "width": 1072
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07AA8958-9617-4E5F-A095-E4CE948409A4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B8672B1A-F330-4669-A8D0-4AFD44E8A3DA",
+    "guides": [
+    ]
+  }
+}
