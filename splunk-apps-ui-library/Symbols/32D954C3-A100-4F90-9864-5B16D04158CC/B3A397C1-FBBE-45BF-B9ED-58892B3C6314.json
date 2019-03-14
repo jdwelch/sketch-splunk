@@ -31,12 +31,12 @@
         "location": 0
       }
     ],
-    "string": "Flyout"
+    "string": "Button"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9EBA49C9-7341-4D66-A0E3-01B95B9CE296",
+  "do_objectID": "B3A397C1-FBBE-45BF-B9ED-58892B3C6314",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 63,
-    "x": -63,
-    "y": 1212
+    "width": 68,
+    "x": -68,
+    "y": 496
   },
-  "glyphBounds": "{{1, 4}, {61, 19}}",
+  "glyphBounds": "{{1, 4}, {66, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Flyout",
+  "name": "Button",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A2EE4FC9-7947-40B7-815C-D377E499ED40",
+    "do_objectID": "C9D79C83-08A3-4C17-A734-8116994CC36A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -27,16 +27,16 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 6,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Button"
+    "string": "Panel"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A699BED7-B9F5-47DE-BD75-ED0C39931386",
+  "do_objectID": "9B8413D8-D0B9-4839-A5E0-CB9FD52D1457",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 68,
-    "x": -68,
-    "y": 496
+    "width": 56,
+    "x": -56,
+    "y": 2546
   },
-  "glyphBounds": "{{1, 4}, {66, 16}}",
+  "glyphBounds": "{{1, 4}, {53, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Button",
+  "name": "Panel",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "017EDB27-7954-4EFF-93B2-2BAD977C2861",
+    "do_objectID": "241B04D2-513D-4981-94B3-E41CF32AF144",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

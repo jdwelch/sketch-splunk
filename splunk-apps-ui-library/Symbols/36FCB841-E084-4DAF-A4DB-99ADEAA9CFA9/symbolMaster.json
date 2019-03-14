@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 344,
+  "changeIdentifier": 8,
   "clippingMaskMode": 0,
-  "do_objectID": "D7DAEE0C-F656-4D57-B11B-0A77B4031CE3",
+  "do_objectID": "36FCB841-E084-4DAF-A4DB-99ADEAA9CFA9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 88,
-    "width": 504,
+    "height": 24,
+    "width": 24,
     "x": 0,
-    "y": 2546
+    "y": 1784
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -41,7 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -49,37 +49,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "DC730B39-6E3B-413C-8C73-DF0FB23A0E18"
-    },
-    {
-      "class": "text",
-      "id": "B699D5A4-D2A3-45FE-AAC1-BF4AB5C5D328"
+      "class": "shapeGroup",
+      "id": "944EEA5A-1BDB-44CB-A172-F9176C43B71B"
     }
   ],
-  "name": "Panel",
+  "name": "Icon/Arrow/UpLeft",
   "nameIsFixed": false,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "DC730B39-6E3B-413C-8C73-DF0FB23A0E18_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B699D5A4-D2A3-45FE-AAC1-BF4AB5C5D328_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "B699D5A4-D2A3-45FE-AAC1-BF4AB5C5D328_textStyle"
-    }
   ],
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -91,7 +72,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "3669F03D-17B1-4804-A719-9E7D24D6D4F1",
+  "symbolID": "34930625-F639-4C05-BEF5-5270207D77C9",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -27,16 +27,16 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 10,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "AppBarMenu"
+    "string": "Flyout"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B004F456-60B8-4D66-9E95-A47847FA061D",
+  "do_objectID": "D8A1AAED-1D18-48B5-9B52-0EDE4A906703",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 131,
-    "x": -131,
-    "y": 248
+    "width": 63,
+    "x": -63,
+    "y": 1212
   },
-  "glyphBounds": "{{0, 4}, {129, 19}}",
+  "glyphBounds": "{{1, 4}, {61, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "AppBarMenu",
+  "name": "Flyout",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C2CCA716-6929-405D-B664-E48A9E561A21",
+    "do_objectID": "6804B3B5-511F-46FF-A296-092C1475D613",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

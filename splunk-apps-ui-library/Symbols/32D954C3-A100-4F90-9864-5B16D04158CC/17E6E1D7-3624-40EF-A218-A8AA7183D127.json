@@ -31,12 +31,12 @@
         "location": 0
       }
     ],
-    "string": "AppBarLink"
+    "string": "AppBarMenu"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "88305152-C32C-4EF2-B327-2613439A05C5",
+  "do_objectID": "17E6E1D7-3624-40EF-A218-A8AA7183D127",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 118,
-    "x": -118,
-    "y": 0
+    "width": 131,
+    "x": -131,
+    "y": 248
   },
-  "glyphBounds": "{{0, 3}, {117, 20}}",
+  "glyphBounds": "{{0, 4}, {129, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "AppBarLink",
+  "name": "AppBarMenu",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B1ED2188-9A83-44C4-8676-6564A17C76B8",
+    "do_objectID": "815B9729-1B96-4F44-B27C-10291BC431B0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

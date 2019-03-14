@@ -27,16 +27,16 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 10,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "ButtonLink"
+    "string": "Icon"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "09411E99-4E4E-49C8-BC88-8DB9BC0703FF",
+  "do_objectID": "7231A1E3-C9B2-415A-A17D-4628071E00FD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 111,
-    "x": -111,
-    "y": 728
+    "width": 44,
+    "x": -44,
+    "y": 1784
   },
-  "glyphBounds": "{{1, 3}, {109, 17}}",
+  "glyphBounds": "{{1, 4}, {41, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "ButtonLink",
+  "name": "Icon",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3AD3CC7B-5A6F-4D66-99F9-031DD061B189",
+    "do_objectID": "231F179E-F304-4315-B8DE-EA935910447E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
