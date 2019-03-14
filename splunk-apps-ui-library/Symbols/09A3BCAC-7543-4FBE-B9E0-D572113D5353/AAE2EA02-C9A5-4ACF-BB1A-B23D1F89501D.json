@@ -27,16 +27,16 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 11,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "MultiSelect"
+    "string": "Header"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8D853B99-887E-49E2-9722-788D5A55DDB6",
+  "do_objectID": "AAE2EA02-C9A5-4ACF-BB1A-B23D1F89501D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 115,
-    "x": -115,
-    "y": 2060
+    "width": 74,
+    "x": -74,
+    "y": 1504
   },
-  "glyphBounds": "{{1, 3}, {113, 17}}",
+  "glyphBounds": "{{1, 4}, {72, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "MultiSelect",
+  "name": "Header",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "EB1EC66E-A324-480C-9960-2683E4B0E99F",
+    "do_objectID": "F45E9F87-E143-4457-89A8-8B952EAB6BD9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

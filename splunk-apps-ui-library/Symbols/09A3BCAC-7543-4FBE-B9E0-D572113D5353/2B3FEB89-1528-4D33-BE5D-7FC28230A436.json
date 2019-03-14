@@ -27,16 +27,16 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 9,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "TextField"
+    "string": "Panel"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F01B0D5B-8D3B-4CD1-AAE8-215712DC70BE",
+  "do_objectID": "2B3FEB89-1528-4D33-BE5D-7FC28230A436",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 92,
-    "x": -92,
-    "y": 3940
+    "width": 56,
+    "x": -56,
+    "y": 2312
   },
-  "glyphBounds": "{{0, 3}, {90, 17}}",
+  "glyphBounds": "{{1, 4}, {53, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "TextField",
+  "name": "Panel",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8F5B1871-33A4-4DB2-96D5-EEBC74E969B9",
+    "do_objectID": "F83E09F6-9E3D-403C-8DFE-C1F2BEF623AB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

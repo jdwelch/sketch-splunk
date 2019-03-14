@@ -27,16 +27,16 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 10,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "AppBarMenu"
+    "string": "Table"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "99739FE1-8A82-4289-B66E-A8B72B1CD307",
+  "do_objectID": "CA6A6AD5-87A4-43CA-8BB0-E87EEB10DE4E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 131,
-    "x": -131,
-    "y": 248
+    "width": 55,
+    "x": -55,
+    "y": 2864
   },
-  "glyphBounds": "{{0, 4}, {129, 19}}",
+  "glyphBounds": "{{0, 4}, {54, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "AppBarMenu",
+  "name": "Table",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "DFE46044-B578-44CC-A6A6-BB3062F0440F",
+    "do_objectID": "3F663FF3-BB16-4F63-801B-21D2E94BA68E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -27,16 +27,16 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 5,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Table"
+    "string": "Flyout"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "556F31C5-C2F4-4781-AD75-0E819C608CC7",
+  "do_objectID": "9EBA49C9-7341-4D66-A0E3-01B95B9CE296",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 55,
-    "x": -55,
-    "y": 2876
+    "width": 63,
+    "x": -63,
+    "y": 1212
   },
-  "glyphBounds": "{{0, 4}, {54, 16}}",
+  "glyphBounds": "{{1, 4}, {61, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Table",
+  "name": "Flyout",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7C843380-B4AB-4314-A531-62F3AC3AB849",
+    "do_objectID": "A2EE4FC9-7947-40B7-815C-D377E499ED40",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
