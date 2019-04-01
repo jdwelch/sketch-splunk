@@ -27,16 +27,16 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 4,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Icon"
+    "string": "Flyout"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7231A1E3-C9B2-415A-A17D-4628071E00FD",
+  "do_objectID": "A9D9DFD1-D18A-4B7A-9CCF-5FF5474DCD4E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 44,
-    "x": -44,
-    "y": 1784
+    "width": 63,
+    "x": 68,
+    "y": 1212
   },
-  "glyphBounds": "{{1, 4}, {41, 16}}",
+  "glyphBounds": "{{1, 4}, {61, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Icon",
+  "name": "Flyout",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "231F179E-F304-4315-B8DE-EA935910447E",
+    "do_objectID": "FDD70EAF-7E5B-4F91-8055-7D374380B1B4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

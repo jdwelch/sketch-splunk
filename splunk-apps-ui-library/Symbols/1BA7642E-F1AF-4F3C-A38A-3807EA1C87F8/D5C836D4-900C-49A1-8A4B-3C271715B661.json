@@ -27,16 +27,16 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 4,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Menu"
+    "string": "Setup"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A9543777-50D4-4E65-878B-0BE6DC344370",
+  "do_objectID": "D5C836D4-900C-49A1-8A4B-3C271715B661",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 56,
-    "x": -56,
-    "y": 2018
+    "width": 60,
+    "x": 71,
+    "y": 2834
   },
-  "glyphBounds": "{{1, 4}, {54, 16}}",
+  "glyphBounds": "{{1, 4}, {58, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Menu",
+  "name": "Setup",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "50484F09-88D6-40AB-B1AA-9E5A0BDE1E88",
+    "do_objectID": "E5958C35-A685-47AE-9A8A-3D6A0EC3691B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

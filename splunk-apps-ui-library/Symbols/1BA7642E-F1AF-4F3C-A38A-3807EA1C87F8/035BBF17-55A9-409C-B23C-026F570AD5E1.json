@@ -31,12 +31,12 @@
         "location": 0
       }
     ],
-    "string": "AppBarLink"
+    "string": "ButtonLink"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0456AEDE-0029-4B66-9A81-8644CF42F886",
+  "do_objectID": "035BBF17-55A9-409C-B23C-026F570AD5E1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 118,
-    "x": -118,
-    "y": 0
+    "width": 111,
+    "x": 20,
+    "y": 728
   },
-  "glyphBounds": "{{0, 3}, {117, 20}}",
+  "glyphBounds": "{{1, 3}, {109, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "AppBarLink",
+  "name": "ButtonLink",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "93F0A044-B22A-4D9C-961F-667F702B72CA",
+    "do_objectID": "45BA0FC1-BC25-4D3D-997C-E308862508FD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -31,12 +31,12 @@
         "location": 0
       }
     ],
-    "string": "Table"
+    "string": "Panel"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "763E4ED6-D44E-4E62-8300-CD021C84FF41",
+  "do_objectID": "969DE003-3F8F-43A7-9DBB-F9F178AAACF0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 55,
-    "x": -55,
-    "y": 2834
+    "width": 56,
+    "x": 75,
+    "y": 2546
   },
-  "glyphBounds": "{{0, 4}, {54, 16}}",
+  "glyphBounds": "{{1, 4}, {53, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Table",
+  "name": "Panel",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "80303D92-2D7E-4C77-96B8-0C6D65BE107C",
+    "do_objectID": "0CEDE98E-0795-4056-8E4C-20128BA5E72F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
