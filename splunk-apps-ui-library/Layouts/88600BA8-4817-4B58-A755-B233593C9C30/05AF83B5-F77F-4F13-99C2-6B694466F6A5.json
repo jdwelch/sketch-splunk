@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "05AF83B5-F77F-4F13-99C2-6B694466F6A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83D04A11-0AEF-4DB9-B3C8-0E78D02255A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B9D4769C-1CF6-4EB1-94C2-AA9C895E12B6",
+    "height": 63,
+    "width": 256,
+    "x": 24,
+    "y": 161
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Menu Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C17EFD1-D568-447B-A51C-037FF219B293",
+      "overrideName": "D3DF144B-66D1-4B27-9A9C-610E5BCFD021_stringValue",
+      "value": "Le menu avec un lable looooongue"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6DC3CEB-15E9-46D3-9A6D-B64466A0FAC7",
+      "overrideName": "135C0349-79DE-479A-9361-E6E8CB58FA04/70DB269B-CA83-4FFD-B48A-E00DD09D1D6A_stringValue",
+      "value": "Le menu mit eine labël looooongue"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "47E4D774-BD64-4BEB-85E4-749A55ED3812",
+      "overrideName": "EB65FF8A-A117-4634-822B-125183730FDD_stringValue",
+      "value": "Puppet Enterprise master"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6DB5165E-0498-4D1A-BF76-663045C7F161",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "266FA583-1BCC-4004-860A-290A8958E3B6",
+  "verticalSpacing": 0
+}

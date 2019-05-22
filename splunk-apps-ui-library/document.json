@@ -93,10 +93,1256 @@
   "colorSpace": 0,
   "do_objectID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
   "foreignLayerStyles": [
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "37FBCBE2-1988-4C0E-96A8-78E5629052F0",
+        "name": "RoundedRect",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9411764705882353,
+                "green": 0.9411764705882353,
+                "red": 0.9411764705882353
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+            {
+              "_class": "innerShadow",
+              "blurRadius": 2,
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "isEnabled": false,
+              "offsetX": 0,
+              "offsetY": -1,
+              "spread": 0
+            }
+          ],
+          "miterLimit": 10,
+          "shadows": [
+            {
+              "_class": "shadow",
+              "blurRadius": 4,
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "isEnabled": false,
+              "offsetX": 0,
+              "offsetY": 2,
+              "spread": 0
+            }
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "E9BC9983-003F-479A-98FC-E5FB6B75FC83[11F327E1-BAF2-4DA8-B801-7D227114A574]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "8B54763E-C817-4E47-B876-4DC0146931BA",
+        "name": "RoundedRect",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9411764705882353,
+                "green": 0.9411764705882353,
+                "red": 0.9411764705882353
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+            {
+              "_class": "innerShadow",
+              "blurRadius": 2,
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "isEnabled": false,
+              "offsetX": 0,
+              "offsetY": -1,
+              "spread": 0
+            }
+          ],
+          "miterLimit": 10,
+          "shadows": [
+            {
+              "_class": "shadow",
+              "blurRadius": 4,
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "isEnabled": false,
+              "offsetX": 0,
+              "offsetY": 2,
+              "spread": 0
+            }
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "EB7AF1D4-ABBF-4CA1-9D98-888C20381DFD[11F327E1-BAF2-4DA8-B801-7D227114A574]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "C3DBB647-39C0-495F-8D8C-0E6087CFA98F",
+        "name": "NavBar",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            },
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1400305706521739,
+                "green": 0.1400305706521739,
+                "red": 0.1400305706521739
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 0.5,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 0.5,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "3A52F015-35F0-4FF7-A60F-5DA1145CFD14[4F62BE4F-E28D-4E5F-8C7A-3B41C60308A4]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "A5F52170-FBCE-4C9D-BAB3-4A4F4A688F7E",
+        "name": "DashboardPanel",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.803814928116163,
+                "green": 0.803814928116163,
+                "red": 0.8041213768115942
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "75B1778E-CC29-448A-9A05-4935A369E924[848607B1-E8ED-4F05-9DC4-49560AF29D4A]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "1C07089E-E50D-45CD-B788-C258B9535045",
+        "name": "RoundedRect",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9411764705882353,
+                "green": 0.9411764705882353,
+                "red": 0.9411764705882353
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+            {
+              "_class": "innerShadow",
+              "blurRadius": 2,
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "isEnabled": false,
+              "offsetX": 0,
+              "offsetY": -1,
+              "spread": 0
+            }
+          ],
+          "miterLimit": 10,
+          "shadows": [
+            {
+              "_class": "shadow",
+              "blurRadius": 4,
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "isEnabled": false,
+              "offsetX": 0,
+              "offsetY": 2,
+              "spread": 0
+            }
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "02FB2341-8C5D-4E59-9024-A8FB2D5E5E81[11F327E1-BAF2-4DA8-B801-7D227114A574]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "1C088859-1AFD-419D-BD39-C1119515FB5A",
+        "name": "AppBarActive",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "045877F1-7090-4908-B7E1-BB54654335CF[6C9B0C61-59F2-4DDD-8E7F-375311B0C0DB]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "EB84EA29-9A75-43E7-8CDA-126238C9B3A3",
+        "name": "RoundedRect",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9411764705882353,
+                "green": 0.9411764705882353,
+                "red": 0.9411764705882353
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+            {
+              "_class": "innerShadow",
+              "blurRadius": 2,
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "isEnabled": false,
+              "offsetX": 0,
+              "offsetY": -1,
+              "spread": 0
+            }
+          ],
+          "miterLimit": 10,
+          "shadows": [
+            {
+              "_class": "shadow",
+              "blurRadius": 4,
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "isEnabled": false,
+              "offsetX": 0,
+              "offsetY": 2,
+              "spread": 0
+            }
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5D7A7616-BDEF-4FEF-9F99-09577E7CF1FD[11F327E1-BAF2-4DA8-B801-7D227114A574]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "3038DA4E-3FFF-4B3F-B1D0-6D1C861EE071",
+        "name": "AppBar",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            },
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.317085597826087,
+                "green": 0.317085597826087,
+                "red": 0.317085597826087
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 0.5,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 0.5,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "3A52F015-35F0-4FF7-A60F-5DA1145CFD14[E6A5B3ED-69B6-4543-8AA5-105E58679FDE]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    }
   ],
   "foreignSymbols": [
   ],
   "foreignTextStyles": [
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "DAA733AC-1855-4DC4-95C7-5EA1DB267740",
+        "name": "Link",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6666666666666666,
+                "green": 0.4313725490196079,
+                "red": 0
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Regular",
+                  "size": 12
+                }
+              },
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0,
+                "tighteningFactorForTruncation": 0.05
+              },
+              "textStyleVerticalAlignmentKey": 1
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "4E124D30-03D3-4420-B8C5-1874DA9D6A37[98C34D5F-F04B-4518-987C-E6C0519E61D8]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "C89E3701-8EE5-46ED-A8F7-A98C44A23473",
+        "name": "AppBarLink",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8330502717391305,
+                "green": 0.8330502717391305,
+                "red": 0.8330502717391305
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Regular",
+                  "size": 14
+                }
+              },
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0,
+                "tighteningFactorForTruncation": 0.05
+              },
+              "textStyleVerticalAlignmentKey": 0
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "0C1D2AC5-7583-4346-8441-B116630E6CF2[6F911F0B-D270-4FFB-BACA-5A59E4152DA8]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "1CE5C71A-39C3-46C4-A502-C75DBE45DFF0",
+        "name": "Description",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2666666666666667,
+                "green": 0.2666666666666667,
+                "red": 0.2666666666666667
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Regular",
+                  "size": 14
+                }
+              },
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0,
+                "tighteningFactorForTruncation": 0.05
+              },
+              "textStyleVerticalAlignmentKey": 1
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "28DE54BC-1F13-4CEC-B489-CDFDD7E8ED90[4D27D8EA-3CD8-4B99-8F4D-D44FF1D5C221]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "8F4F0D03-3F99-4C6E-9FE2-9CAA6D4A1935",
+        "name": "ButtonText",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Regular",
+                  "size": 14
+                }
+              },
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0,
+                "tighteningFactorForTruncation": 0.05
+              },
+              "textStyleVerticalAlignmentKey": 1
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "EB7AF1D4-ABBF-4CA1-9D98-888C20381DFD[5A9DDDB7-310D-4747-B387-5274CCCD7650]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "F8517780-B7B1-4237-B4C5-218D2DF94B1C",
+        "name": "ButtonText",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Regular",
+                  "size": 14
+                }
+              },
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0,
+                "tighteningFactorForTruncation": 0.05
+              },
+              "textStyleVerticalAlignmentKey": 1
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "02FB2341-8C5D-4E59-9024-A8FB2D5E5E81[5A9DDDB7-310D-4747-B387-5274CCCD7650]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "5264933C-5481-4296-BB5A-5437AFEA44C2",
+        "name": "AppBarAktiv",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Regular",
+                  "size": 14
+                }
+              },
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0,
+                "tighteningFactorForTruncation": 0.05
+              },
+              "textStyleVerticalAlignmentKey": 0
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "045877F1-7090-4908-B7E1-BB54654335CF[68236EE2-841A-4E34-B8A3-8CE3044C952F]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "455972F1-292D-45B8-AC52-D8FBDABF2692",
+        "name": "MenuText",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Regular",
+                  "size": 14
+                }
+              },
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0,
+                "tighteningFactorForTruncation": 0.05
+              },
+              "textStyleVerticalAlignmentKey": 1
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5D7A7616-BDEF-4FEF-9F99-09577E7CF1FD[27F734D4-F202-4A78-B2C6-6410DF5BA817]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "6B96F9ED-1579-4BD2-91CE-02630A0FB1F5",
+        "name": "Description",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2666666666666667,
+                "green": 0.2666666666666667,
+                "red": 0.2666666666666667
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Regular",
+                  "size": 14
+                }
+              },
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0,
+                "tighteningFactorForTruncation": 0.05
+              },
+              "textStyleVerticalAlignmentKey": 1
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "03765887-C938-4672-8B33-E692FD6EF97E[4D27D8EA-3CD8-4B99-8F4D-D44FF1D5C221]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "8B14C2CD-A936-4D7D-AD3A-7437F15949D3",
+        "name": "H2",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Semibold",
+                  "size": 24
+                }
+              },
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0,
+                "tighteningFactorForTruncation": 0.05
+              },
+              "textStyleVerticalAlignmentKey": 1
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "03765887-C938-4672-8B33-E692FD6EF97E[7775A887-06DE-49BE-A8C4-AE7203875725]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "B74C530E-E3CD-46C3-B5F7-96C906AEA73A",
+        "name": "H2.PanelTitle",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2666666666666667,
+                "green": 0.2666666666666667,
+                "red": 0.2666666666666667
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Regular",
+                  "size": 16
+                }
+              },
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0,
+                "tighteningFactorForTruncation": 0.05
+              },
+              "textStyleVerticalAlignmentKey": 1
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "75B1778E-CC29-448A-9A05-4935A369E924[EDB869D7-6E7E-4AE2-9281-73CF24FFADEB]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "E80E00C1-7C23-4892-9F9B-44F1A79B6890",
+        "name": "AppBarLink",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8330502717391305,
+                "green": 0.8330502717391305,
+                "red": 0.8330502717391305
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Regular",
+                  "size": 14
+                }
+              },
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0,
+                "tighteningFactorForTruncation": 0.05
+              },
+              "textStyleVerticalAlignmentKey": 0
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "A0B69FA6-09BE-4E40-88AA-5A650818E820[6F911F0B-D270-4FFB-BACA-5A59E4152DA8]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "19AA447D-A5DA-41E3-954B-C40A43C37BA7",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "D05C0D05-BA4A-43D2-A354-E0FB927F74CF",
+        "name": "Description",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2666666666666667,
+                "green": 0.2666666666666667,
+                "red": 0.2666666666666667
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Regular",
+                  "size": 14
+                }
+              },
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0,
+                "tighteningFactorForTruncation": 0.05
+              },
+              "textStyleVerticalAlignmentKey": 1
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "CA134433-684C-4F89-9596-EFFF641D669C[4D27D8EA-3CD8-4B99-8F4D-D44FF1D5C221]",
+      "sourceLibraryName": "splunk-apps-ui-library",
+      "symbolPrivate": true
+    }
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -104,9 +1350,9 @@
     ]
   },
   "meta": {
-    "appVersion": "53.2",
-    "build": 72643,
-    "version": 116
+    "appVersion": "54.1",
+    "build": 76490,
+    "version": 118
   },
   "pages": [
     "Cover",

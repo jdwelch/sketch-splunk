@@ -1,0 +1,221 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "B2609F7C-75B3-4A6C-AF14-0BF85F66AF02",
+    "green": 0.9568627450980393,
+    "red": 0.9490196078431372
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "88600BA8-4817-4B58-A755-B233593C9C30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "870C258D-A7EF-49F5-B7D6-FB15727291A6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E04AD9E5-185C-463C-8B6B-8930AC340783",
+    "height": 800,
+    "width": 1072,
+    "x": -1640,
+    "y": -554
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "1A3D5016-35A3-4D78-ADC1-D8422CD3DA7A",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DED54A61-E48B-4233-BB23-D0EB9D1048F7"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C249B7B2-CAB7-4CAB-A923-2AE262E117E8",
+    "guides": [
+      24,
+      1048
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CFC69A5F-06F5-4C3B-9277-2FCF8A4D0A33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9CF818F8-B6EF-41F3-93AF-A714243BA8CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01E37E89-B458-4DBC-98AC-5A917D66119C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05AF83B5-F77F-4F13-99C2-6B694466F6A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFC524BF-3D19-464D-B62A-795161470274"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38AF713F-628C-4E3C-BD2A-7CF149A25D28"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E10AEC90-EDB4-4F87-9B2C-B21FC68CD86C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3EF13FBA-4073-42DC-BCD8-37A79C36E1BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A774D21-4340-44D0-BF08-A5277A1E2B3D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E14E2C2-AEF4-4D92-8484-EBF153D8E87B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03A73541-64C9-4A2F-A948-9D90F56C7F5D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0BAB7E3B-5531-4119-8F01-B85958DE52C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "685A848A-2C81-4BC0-94DB-3147B39F11E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72A983F4-8116-4BC6-B224-50B72329CD2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "625E20EF-0CA5-4121-AD49-40A7AF49F52C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "985104F8-1612-4EF3-8F96-9CCD96285E88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "586619C9-73F0-424A-A03B-88B99A304C5E"
+    },
+    {
+      "class": "group",
+      "id": "87C085BC-C3DB-472A-8B9F-021C6DC57A20"
+    },
+    {
+      "class": "group",
+      "id": "9D283422-C3D6-4189-B223-4EAC2E1834D3"
+    },
+    {
+      "class": "group",
+      "id": "4FD165B8-D10E-4000-AE33-685E50DE308E"
+    },
+    {
+      "class": "group",
+      "id": "B31F0C5C-B068-473F-9207-384E88EC4177"
+    },
+    {
+      "class": "group",
+      "id": "4199B235-6651-4489-8064-F3B4736B0656"
+    },
+    {
+      "class": "group",
+      "id": "A5E8532C-134A-405A-A36C-CA8E51BFC724"
+    },
+    {
+      "class": "group",
+      "id": "2DE0490D-878B-4853-A785-E78FA4F0A58F"
+    },
+    {
+      "class": "group",
+      "id": "3F4B67E2-9C91-4CE2-845F-F491FC9AAF34"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70.66666666666667,
+    "do_objectID": "8BD47F8E-1622-4594-800A-B52EE9937D54",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": false,
+    "horizontalOffset": 24,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1024
+  },
+  "name": "Scratch",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 800,
+    "name": "SplunkDashboard",
+    "offersLandscapeVariant": 0,
+    "width": 1072
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6AD998C9-B403-4230-B6DC-7953145E733C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "53EDC2AD-4D27-4429-A0A4-E7A9F54FB1F6",
+    "guides": [
+    ]
+  }
+}

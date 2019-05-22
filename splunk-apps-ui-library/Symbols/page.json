@@ -178,6 +178,14 @@
     {
       "class": "group",
       "id": "1BA7642E-F1AF-4F3C-A38A-3807EA1C87F8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E0DEFDD6-212D-426E-8E54-5ED61C902C4D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "41E94CAE-02A9-481B-8CEB-1EABB26B1004"
     }
   ],
   "name": "Symbols",
